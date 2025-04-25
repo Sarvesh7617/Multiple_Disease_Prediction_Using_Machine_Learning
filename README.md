@@ -36,3 +36,20 @@ pip install streamlit pickle-mixin os numpy streamlit-option-menu
 ```bash
 streamlit run app.py
 ```
+## 🔎 Usage Guide  
+1. **Select the disease type** from the sidebar (Diabetes, Heart Disease, or Kidney Disease).  
+2. **Enter patient details** such as age, glucose level, blood pressure, etc.  
+3. Click **"Predict"** to analyze health data.  
+4. See **instant diagnosis results** based on ML predictions!
+## 📊 Model Performance  
+
+### 🔹 Diabetes Prediction Model  
+| **Model**                     | **Score** |
+|--------------------------------|----------|
+| **Random Forest Classifier**   | 88.82%   |
+| **Gradient Boosting Classifier** | 87.50%   |
+| **XGBoost**                    | 86.84%   |
+| **SVM**                        | 84.87%   |
+| **KNN**                        | 83.55%   |
+| **Decision Tree Classifier**    | 82.89%   |
+| **Logistic Regression**         | 80.92%   |
