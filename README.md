@@ -9,3 +9,9 @@ This project is a **Machine Learning-based web application** that predicts **Dia
 - **Kidney Disease Classification** with relevant attributes.  
 - **Real-time prediction** powered by trained models.  
 - **User-friendly interface** built with **Streamlit**.  
+## ⚙️ Technologies Used  
+- **Development IDEs:** Jupyter Notebook (for training), VS Code (for app) 
+- **Frontend:** Streamlit UI  
+- **Machine Learning Models:** Logistic Regression, Decision Tree, Random Forest, XGBoost, Gradient Boosting, SVM, KNN  
+- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- **Model Saving:** Pickle  
