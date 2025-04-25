@@ -53,3 +53,30 @@ streamlit run app.py
 | **KNN**                        | 83.55%   |
 | **Decision Tree Classifier**    | 82.89%   |
 | **Logistic Regression**         | 80.92%   |
+### 🔹 Kidney Disease Prediction Model  
+| **Model**                     | **Score** |
+|--------------------------------|----------|
+| **Random Forest Classifier**   | 98.75%   |
+| **Gradient Boosting**          | 98.75%   |
+| **Decision Tree Classifier**    | 97.50%   |
+| **Logistic Regression**        | 91.25%   |
+| **SVM**                        | 75.00%   |
+| **KNN**                        | 66.25%   |
+| **XGBoost**                    | 65.00%   |
+
+### 🔹 Heart Disease Prediction Model  
+| **Model**                     | **Score** |
+|--------------------------------|----------|
+| **Logistic Regression**        | 81.97%   |
+| **Random Forest Classifier**   | 80.33%   |
+| **Decision Tree Classifier**   | 77.05%   |
+| **SVM**                        | 62.30%   |
+
+---
+
+## 🔮 Future Enhancements  
+- **Add Liver Disease Prediction** module.  
+- **Improve UI & Data Visualization**.  
+- **Deploy to Cloud for Public Access**.  
+
+---
