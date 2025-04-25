@@ -19,8 +19,3 @@ This project is a **Machine Learning-based web application** that predicts **Dia
 1.Clone the repository:
 ```bash
 git clone https://github.com/Sarvesh7617/Multiple_Disease_Prediction_Using_Machine_Learning.git```
-2.Navigate to the project directory
-```bash
-cd Multiple_Disease_Prediction_Using_Machine_Learning```
-```bash
-pip install numpy pandas seaborn statsmodels matplotlib scikit-learn xgboost```
