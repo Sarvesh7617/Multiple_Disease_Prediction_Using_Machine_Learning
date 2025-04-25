@@ -24,3 +24,15 @@ git clone https://github.com/Sarvesh7617/Multiple_Disease_Prediction_Using_Machi
 ```bash
 cd Multiple_Disease_Prediction_Using_Machine_Learning
 ```
+3. For Machine Learning Models (Jupyter Notebook)  
+```bash
+pip install numpy pandas seaborn statsmodels matplotlib scikit-learn xgboost
+```
+4. For Streamlit Web App (app.py)
+```bash
+pip install streamlit pickle-mixin os numpy streamlit-option-menu
+```
+5. Run the Streamlit Application
+```bash
+streamlit run app.py
+```
