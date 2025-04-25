@@ -18,4 +18,4 @@ This project is a **Machine Learning-based web application** that predicts **Dia
 ## Installation
 1.Clone the repository:
 ```bash
-git clone https://github.com/Sarvesh7617/Multiple_Disease_Prediction_Using_Machine_Learning.git```
+git clone https://github.com/Sarvesh7617/Multiple_Disease_Prediction_Using_Machine_Learning.git
